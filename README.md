@@ -26,7 +26,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=44&text=%E2%96%B8%20ls%20./stack%20--all&fontSize=14&fontColor=58a6ff&fontAlign=8&fontAlignY=62&textBg=false&stroke=58a6ff&strokeWidth=0" width="100%" alt="stack"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=44&text=%E2%96%B8%20ls%20./stack%20--all&fontSize=14&fontColor=58a6ff&fontAlign=8&fontAlignY=62&textBg=false" width="100%"/>
 
 <br/>
 
@@ -60,21 +60,21 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=44&text=%E2%96%B8%20./diagnostics%20--user%20sam404rihan&fontSize=14&fontColor=3fb950&fontAlign=8&fontAlignY=62&textBg=false" width="100%" alt="diagnostics"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=44&text=%E2%96%B8%20./diagnostics%20--user%20sam404rihan&fontSize=14&fontColor=3fb950&fontAlign=8&fontAlignY=62&textBg=false" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sam404rihan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam404rihan&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8" height="165"/>
+<img src="https://streak-stats.demolab.com?user=sam404rihan&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&card_width=900" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=sam404rihan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sam404rihan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true&count_private=true" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam404rihan&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8" height="160"/>
 
 </div>
 
@@ -82,7 +82,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=44&text=%E2%96%B8%20cat%20activity.log&fontSize=14&fontColor=ff6b35&fontAlign=8&fontAlignY=62&textBg=false" width="100%" alt="activity"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=44&text=%E2%96%B8%20cat%20activity.log&fontSize=14&fontColor=ff6b35&fontAlign=8&fontAlignY=62&textBg=false" width="100%"/>
 
 <br/>
 
@@ -96,21 +96,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=44&text=%E2%96%B8%20achievements%20--display&fontSize=14&fontColor=bc8cff&fontAlign=8&fontAlignY=62&textBg=false" width="100%" alt="achievements"/>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sam404rihan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
-<br/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=44&text=%E2%96%B8%20snake%20--run&fontSize=14&fontColor=3fb950&fontAlign=8&fontAlignY=62&textBg=false" width="100%" alt="snake"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=44&text=%E2%96%B8%20snake%20--run&fontSize=14&fontColor=3fb950&fontAlign=8&fontAlignY=62&textBg=false" width="100%"/>
 
 <br/>
 
@@ -128,7 +114,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=44&text=%E2%96%B8%20fortune%20%7C%20cowsay&fontSize=14&fontColor=febc2e&fontAlign=8&fontAlignY=62&textBg=false" width="100%" alt="fortune"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=44&text=%E2%96%B8%20fortune%20%7C%20cowsay&fontSize=14&fontColor=febc2e&fontAlign=8&fontAlignY=62&textBg=false" width="100%"/>
 
 <br/>
 
@@ -142,7 +128,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=44&text=%E2%96%B8%20ping%20--locate&fontSize=14&fontColor=58a6ff&fontAlign=8&fontAlignY=62&textBg=false" width="100%" alt="ping"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=44&text=%E2%96%B8%20ping%20--locate&fontSize=14&fontColor=58a6ff&fontAlign=8&fontAlignY=62&textBg=false" width="100%"/>
 
 <br/>
 
@@ -158,8 +144,8 @@
 
 [![Views](https://visitcount.itsvg.in/api?id=sam404rihan&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer&text=%2F%2F%20EOF%20%E2%80%94%20system%20standing%20by&fontSize=14&fontColor=58a6ff&fontAlignY=55&animation=fadeIn" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=80&section=footer&text=%2F%2F%20EOF%20%E2%80%94%20system%20standing%20by&fontSize=14&fontColor=58a6ff&fontAlignY=55&animation=fadeIn" width="100%" alt="footer"/>
+
 </div>
