@@ -36,7 +36,11 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sam404rihan&bg_color=0d0d0d&color=60a5fa&line=60a5fa&point=c8d3f5&area=true&area_color=1b2e4b&hide_border=true&custom_title=Contribution+Activity&title_color=3a3a3a&font_color=6b6b6b&radius=14" width="800" />
+<img src="https://ghchart.rshah.org/22d3ee/sam404rihan" width="800" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sam404rihan&bg_color=0a0a0a&color=22d3ee&line=22d3ee&point=ffffff&area=true&area_color=0d2a2a&hide_border=true&custom_title=&title_color=0a0a0a&font_color=3a3a3a" width="800" />
 
 <br/><br/>
 
