@@ -20,33 +20,33 @@
 
 <br/>
 
-<img src="https://samarrihan.dev/banner/about" width="800" />
+<img src="https://samarrihan.dev/banner/about" />
 
 <br/>
 
-<img src="https://samarrihan.dev/banner/stack" width="800" />
+<img src="https://samarrihan.dev/banner/stack" />
 
 <br/>
 
-<img src="https://samarrihan.dev/banner/projects" width="800" />
+<img src="https://samarrihan.dev/banner/projects" />
 
 <br/>
 
-<img src="https://samarrihan.dev/banner/stats" width="800" />
+<img src="https://samarrihan.dev/banner/stats" />
 
 <br/>
 
-<img src="https://samarrihan.dev/banner/contrib" width="800" />
+<img src="https://samarrihan.dev/banner/contrib" />
 
-<img src="https://ghchart.rshah.org/sam404rihan" width="800" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sam404rihan&bg_color=0a0a0a&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=0d2010&hide_border=true&custom_title=&title_color=0a0a0a&font_color=3a3a3a" width="800" />
+<img src="https://ghchart.rshah.org/sam404rihan" />
 
 <br/>
 
-<img src="https://samarrihan.dev/banner/contact" width="800" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sam404rihan&bg_color=0a0a0a&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=0d2010&hide_border=true&custom_title=&title_color=0a0a0a&font_color=3a3a3a" />
+
+<br/>
+
+<img src="https://samarrihan.dev/banner/contact" />
 
 <br/><br/>
 
