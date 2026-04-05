@@ -42,9 +42,6 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sam404rihan&bg_color=0a0a0a&color=3fb950&line=3fb950&point=ffffff&area=true&area_color=0d2010&hide_border=true&custom_title=&title_color=0a0a0a&font_color=3a3a3a" />
-
-<br/>
 
 <img src="https://samarrihan.dev/banner/contact" />
 
