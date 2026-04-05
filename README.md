@@ -32,10 +32,6 @@
 
 <br/>
 
-<img src="https://samarrihan.dev/banner/stats" />
-
-<br/>
-
 <img src="https://samarrihan.dev/banner/contrib" />
 
 <picture>
