@@ -38,7 +38,11 @@
 
 <img src="https://samarrihan.dev/banner/contrib" />
 
-<img src="https://ghchart.rshah.org/sam404rihan" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sam404rihan/sam404rihan/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sam404rihan/sam404rihan/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/sam404rihan/sam404rihan/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <br/>
 
