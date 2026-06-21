@@ -2,6 +2,10 @@ name: Generate Snake
 on:
   schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -9,9 +13,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: sam404rihan
+          # Champagne palette to match the profile banners.
+          # color_dots ramps empty -> most-active; color_snake is the crawler.
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%23a87c2c&color_dots=%23efe9db,%23d9c79a,%23c2a868,%239a7833,%236e5420
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23e8c87a&color_dots=%23161310,%235c4f33,%238a7647,%23b39a5e,%23cbb892
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
